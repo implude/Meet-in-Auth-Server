@@ -1,2 +1,2 @@
-# Meet-n-Backend
-미틴 백엔드
+# Meet-n-Auth-Server
+미틴 인증서버
