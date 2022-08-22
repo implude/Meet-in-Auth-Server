@@ -6,9 +6,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 	"net/http"
-	"pentag.kr/Meet-n-Auth-Server/models"
-	"pentag.kr/Meet-n-Auth-Server/modules/cryption"
-	"pentag.kr/Meet-n-Auth-Server/modules/jwtparse"
+	"pentag.kr/Meet-in-Auth-Server/models"
+	"pentag.kr/Meet-in-Auth-Server/modules/cryption"
+	"pentag.kr/Meet-in-Auth-Server/modules/jwtparse"
 	"time"
 )
 

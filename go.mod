@@ -1,4 +1,4 @@
-module pentag.kr/Meet-n-Auth-Server
+module pentag.kr/Meet-in-Auth-Server
 
 go 1.19
 

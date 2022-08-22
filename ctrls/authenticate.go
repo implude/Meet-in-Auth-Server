@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"pentag.kr/Meet-n-Auth-Server/modules/jwtparse"
+	"pentag.kr/Meet-in-Auth-Server/modules/jwtparse"
 )
 
 var ctx = context.Background()

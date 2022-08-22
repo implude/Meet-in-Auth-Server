@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"pentag.kr/Meet-n-Auth-Server/ctrls"
-	"pentag.kr/Meet-n-Auth-Server/models"
+	"pentag.kr/Meet-in-Auth-Server/ctrls"
+	"pentag.kr/Meet-in-Auth-Server/models"
 )
 
 func main() {

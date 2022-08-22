@@ -5,7 +5,7 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"gorm.io/gorm"
 	"os"
-	"pentag.kr/Meet-n-Auth-Server/models"
+	"pentag.kr/Meet-in-Auth-Server/models"
 )
 
 var SecretKey = []byte(os.Getenv("ACCESS_SECRET"))
