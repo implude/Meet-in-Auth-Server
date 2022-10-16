@@ -1,4 +1,4 @@
-# Meet-n-Auth-Server
+# Meet-in-Auth-Server
 미틴 인증서버
 
 ## How to Run
