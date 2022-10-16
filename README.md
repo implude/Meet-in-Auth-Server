@@ -4,3 +4,4 @@
 ## How to Run
 
 `bash run.sh`
+this script automated for docker build and run
